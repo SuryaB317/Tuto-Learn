@@ -1,1 +1,27 @@
+INTERACTIVE LEARNING (Tuto-Learn)
+
+           This project aims to develop an application for an interactive learning platform, which is used for self-directed learning. The project consists of three modules for tutors, 
+students, and administrators. The proposed system addresses the challenges associated with keeping users engaged over the long term; implementing features such as interactive quizzes and
+regular content updates can be helpful. The main purpose of this web application is to provide a perfect learning platform for users. The key features include a user-friendly and 
+interactive interface, generating a dynamic and engaging learning experience. By utilizing a robust MySQL backend and a PHP framework, this project ensures efficient data management, 
+scalability, and a seamless user experience. The MySQL database facilitates secure storage and retrieval of user data, enabling real-time progress tracking and integration of interactive
+quizzes. With a focus on user authentication and data security, this project stands as an innovative solution, combining technology and pedagogy to create a dynamic and scalable platform
+for interactive and effective learning experiences. Users receive certificates that are automatically generated after completing all videos and scoring higher than 40%, providing them
+with a tangible recognition for their achievements. Learning becomes more accessible, engaging, and rewarding due to the smooth implementation of video-based instruction, certification,
+and assessments.
+
+Software Requirements 
+•	Operating System: Windows OS 
+•	System type: 32-bit or 64-bit Operating System. 
+•	Database: MYSQL 
+•	Front end: HTML, CSS, JS
+•	Software : Visual Studio Code   
+
+Hardware Requirements:
+•	Processor : AMD PRO A4-4350B R4 2.50 GHz 
+•	Installed RAM: 4.00 GB 
+•	Hard disk: 500 GB 
+•	Keyboard: Standard keyboard 
+•	Monitor: 15-inch color monitor
+
 
