@@ -1,0 +1,40 @@
+h2 {
+    color: aquamarine;
+    font-weight: 700;
+}
+
+.container {
+    background-color: blueviolet;
+}
+
+nav ul li {
+    display: flex;
+    justify-content: center;
+    position: absolutes;
+}
+
+ul li a {
+    display: flex;
+    font-weight: 500;
+    color: black;
+    text-decoration: none;
+}
+
+.bg-img-1 {
+    background-image: url("./img1.jpg");
+}
+
+.bg-img-2 {
+    background-image: url("./img2.jpg");
+}
+
+.bg-img-3 {
+    background-image: url("./img3.jpg");
+}
+
+.carousel-image {
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
